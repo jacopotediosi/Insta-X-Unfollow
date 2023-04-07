@@ -1,2 +1,5 @@
 # Insta-X-Unfollow
-Easy Python 2.x script to unfollow a certain number of users in a few time with some anti-ban protections.
+
+A basic python2 script I developed in 2018 to unfollow a certain number of users on Instagram in a short time without triggering rate limits.
+
+Currently not working as Instagram has completely changed.
